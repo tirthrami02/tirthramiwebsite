@@ -354,6 +354,10 @@ main {
   border-radius: 8px;
 }
 
+.info-content a:hover {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
 .info_more-btn {
   position: absolute;
   top: -15px;
